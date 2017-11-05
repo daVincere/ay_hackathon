@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Upload Form 16</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body>
+        <h1>Upload Form 16</h1>
+        <form action="/postform" method="post" enctype="multipart/form-data">
+          <p><input type="file" name="file[]" multiple="">
+             <input type="submit" value="Upload form">
+        </form>
+    </body>
+</html>
+ 
+
