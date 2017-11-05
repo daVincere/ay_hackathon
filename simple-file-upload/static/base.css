@@ -1,0 +1,51 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+title{
+	font-weight: bold;
+}
+
+.jumbotron {
+	background-color: #ffffff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom:20px; 
+	max-height: 230px;
+	color: #999999;
+	font-color: #000000;
+}
+
+footer 
+{	
+/*	position: absolute;*/
+/*	height: 70px;*/	
+	margin-top: 100px;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+
+
+.footer-nav li
+{
+	display: inline;
+}
+
+.footer-nav li:not(:first-child):before
+{
+	content: '|';
+	padding: 0px 10px;
+}
+
+.footer-nav a 
+{
+	color:#999999;
+}
+
+.footer-nav a:hover 
+{
+	/*color : #fff;*/
+	
+	color: #00AADE;
+	text-decoration: none;
+}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 click==6.7
 decorator==4.1.2
 Django==1.11.7
@@ -27,3 +28,10 @@ tornado==4.5.2
 traitlets==4.3.2
 wcwidth==0.1.7
 Werkzeug==0.12.2
+=======
+Werkzeug==0.12.2
+Jinja2==2.9.6
+docx2txt==0.6
+regex==2017.9.23
+Flask==0.12.2
+>>>>>>> 60906f959df8b83972876d9a29c4734bad6eab7a
