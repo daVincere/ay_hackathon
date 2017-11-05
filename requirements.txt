@@ -1,6 +1,7 @@
 click==6.7
 decorator==4.1.2
 Django==1.11.7
+docx2txt==0.6
 Flask==0.12.2
 ipykernel==4.6.1
 ipython==6.2.1

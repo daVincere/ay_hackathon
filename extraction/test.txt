@@ -1,0 +1,1231 @@
+FORM NO. 16A
+
+[See rule 31(1)(b)]
+
+Certificate under section 203 of the Income-tax Act, 1961 for tax deducted at source
+
+Name and address of the deductor
+
+HVCV BanK Limited
+
+1, KSKD HOUSE, VDSH DVJBSD,
+
+Ogbhnj ASDFR, Patna - 456675
+
+BIHAR
+
++(91)55-4567899
+
+QUERIESONTDS@DFSJVSJ.COM
+
+Name and address of the deductee
+
+DGBHJA KASDABKDS
+
+D-202/EC II UGDUDF BVCMBVC, DBSJDVSBJSD ROAD,
+
+hURGUOY - 622008 KOCHI
+
+PAN of the deductor
+
+ABCVG8711B
+
+TAN of the deductor
+
+KJMN90118R
+
+PAN of the deductee
+
+HNBVA9817V
+
+Assessment Year
+
+2017-18
+
+CIT (TDS)
+
+The Commissioner of Income Tax (TDS)
+
+Room No. 900A, 9th Floor, K.G. Mittal Ayurvedic Hospital Building,
+
+Charni Road , Mumbai - 400002
+
+Period
+
+From
+
+01-Jul-2016
+
+To
+
+30-Sep-2016
+
+Summary of payment
+
+Amount paid/ credited Nature of payment**
+
+Date of payment/ credit
+
+(dd/mm/yyyy)
+
+Sl. No.
+
+Deductee Reference No.
+
+provided by the Deductor (if
+
+any)
+
+1 21914.00 194A 24-07-2016
+
+2 15971.00 194A 09-08-2016
+
+Total (Rs.) 37885.00
+
+Summary of tax deducted at source in respect of Deductee
+
+Quarter
+
+Receipt Numbers of Original
+
+Quarterly Statements of TDS
+
+Under sub-section (3) of Section
+
+200
+
+Amount of Tax Deducted in respect of
+
+Deductee
+
+Amount of Tax Deposited / Remitted in
+
+respect of Deductee
+
+Q2 FXBQBIDK 3788.50 3788.50
+
+I. DETAILS OF TAX DEDUCTED AND DEPOSITED IN THE CENTRAL GOVERNMENT ACCOUNT THROUGH BOOK ADJUSTMENT
+
+(The deductor to provide payment-wise details of tax deducted and deposited with respect to the deductee)
+
+Sl. No.
+
+Tax deposited in respect of
+
+deductee (Rs.)
+
+Book Identification Number (BIN)
+
+Receipt Numbers of Form
+
+No. 24G
+
+DDO serial number in Form No.
+
+24G
+
+Date of Transfer
+
+voucher (dd/mm/yyyy)
+
+Status of Matching
+
+with Form No. 24G
+
+Total (Rs.)
+
+II. DETAILS OF TAX DEDUCTED AND DEPOSITED IN THE CENTRAL GOVERNMENT ACCOUNT THROUGH CHALLAN
+
+(The deductor to provide payment-wise details of tax deducted and deposited with respect to the deductee)
+
+Sl. No.
+
+Tax deposited in respect of the
+
+deductee (Rs.)
+
+Challan Identification Number (CIN)
+
+BSR Code of the Bank
+
+Branch
+
+Date on which tax deposited
+
+(dd/mm/yyyy)
+
+Challan Serial Number Status of matching with
+
+OLTAS*
+
+1 2191.40 0510075 06-08-2016 29181 F
+
+2 1597.10 0510075 07-09-2016 32708 F
+
+Total (Rs.) 3788.50
+
+Certificate No. KKWPNFK Last updated on 04-Nov-2016
+
+Page 1 of 2
+
+Certificate Number:KKWPNFK TAN of Deductor: KJMN90118R PAN of Deductee: HNBVA9817V Assessment Year: 2017-18
+
+I, BDJBDS TUERTVDJ, son / daughter of UGWEUFV JDBSJDJS working in the capacity of DEPUTY VICE PRESIDENT (designation) do
+
+hereby certify that a sum of Rs. 3788.50 [Rs. Three Thousand Seven Hundred and Eighty Eight Fifty paisa Only (in words)] has been deducted and a sum of
+
+Rs. 3788.50 [Rs. Three Thousand Seven Hundred and Eighty Eight Fifty paisa Only] has been deposited to the credit of the Central Government. I further certify that
+
+the information given above is true, complete and correct and is based on the books of account, documents, TDS statements, TDS deposited and other available
+
+records.
+
+Verification
+
+Place
+
+Date 05-Nov-2016 (Signature of person responsible for deduction of tax)
+
+MUMBAI
+
+Designation: DEPUTY VICE PRESIDENT Full Name: BDJBDS TUERTVDJ
+
+Notes:
+
+1. Form 16A contains the latest transaction reported by the deductor in the TDS / TCS Statement. For further details please view your 26AS for same AY on the website https://www.tdscpc.gov.in
+
+2. To update the PAN details in Income Tax Department database, apply for 'PAN change request' through NSDL or UTITSL
+
+3. In items I and II, in column for tax deposited in repect of deductee, furnish total amount of TDS, surcharge (if applicable) and education cess (if applicable).
+
+Legend used in Form 16A
+
+* Status of matching with OLTAS
+
+Legend Description Definition
+
+U Unmatched
+
+Deductors have not deposited taxes or have furnished incorrect particulars of tax payment. Final credit will be reflected only when payment
+
+details in bank match with details of deposit in TDS / TCS statement
+
+P Provisional
+
+Provisional tax credit is effected only for TDS / TCS Statements filed by Government deductors."P" status will be changed to Final (F) on
+
+verification of payment details submitted by Pay and Accounts Officer (PAO)
+
+F Final
+
+In case of non-government deductors, payment details of TDS / TCS deposited in bank by deductor have matched with the payment details
+
+mentioned in the TDS / TCS statement filed by the deductors. In case of government deductors, details of TDS / TCS booked in Government
+
+account have been verified by Pay & Accounts Officer (PAO)
+
+O Overbooked
+
+Payment details of TDS / TCS deposited in bank by deductor have matched with details mentioned in the TDS / TCS statement but the
+
+amount is over claimed in the statement. Final (F) credit will be reflected only when deductor reduces claimed amount in the statement or
+
+makes new payment for excess amount claimed in the statement
+
+** Nature of Payment
+
+Section Code Description
+
+193 Interest on Securities
+
+Section Code Description
+
+196D
+
+Collection at source from alcoholic liquor for human consumption
+
+Commission, price, etc. on sale of lottery tickets
+
+Other sums payable to a non-resident
+
+194I
+
+Income by way of interest from specified company payable to a non-resident
+
+Dividends
+
+194H
+
+Payments to non-resident sportsmen or sports associations
+
+206CK
+
+Winning from horse race
+
+194E
+
+194LC
+
+Collection at source from tendu Leaves
+
+Collection at source from contractors or licensee or lease relating to parking
+
+lots
+
+Interest other than 'Interest on securities'
+
+194LB
+
+Payments on account of repurchase of units by Mutual Fund or Unit Trust of
+
+India
+
+196C
+
+194A
+
+Payments to contractors and sub-contractors
+
+195
+
+194
+
+206CF
+
+206CI
+
+194BB
+
+Collection at source from timber obtained by any mode other than a forest
+
+lease
+
+Rent
+
+Collection at source from contractors or licensee or lease relating to toll plaza
+
+206CA
+
+206CB Collection at source from timber obtained under forest lease
+
+194B
+
+Income in respect of units of non-residents
+
+194LA
+
+194K
+
+Commission or brokerage
+
+194D
+
+Collection at source from on sale of certain Minerals
+
+194C
+
+194EE
+
+206CG
+
+Income payable to a resident assessee in respect of units of a specified mutual
+
+fund or of the units of the Unit Trust of India
+
+206CC
+
+Income by way of Interest from Infrastructure Debt fund
+
+Payments in respect of units to an offshore fund
+
+Insurance commission
+
+Winning from lottery or crossword puzzle
+
+206CJ
+
+Payments in respect of deposits under National Savings Scheme
+
+Fees for professional or technical services
+
+206CE
+
+206CD
+
+194G
+
+196B
+
+Payment of compensation on acquisition of certain immovable property
+
+194J Collection at source from contractors or licensee or lease relating to mine or
+
+quarry
+
+194F
+
+196A
+
+Collection at source on cash case of Bullion and Jewellery
+
+206CH
+
+Income from foreign currency bonds or shares of Indian company payable to
+
+non-residents
+
+Collection at source from any scrap
+
+Income of foreign institutional investors from securities
+
+Collection at source from any other forest produce (not being tendu leaves)
+
+194I(a) Payment of Rent for the use of any machinery or plant or equipment
+
+Payment of Rent for the use of land or building or land appurtenant or
+
+furniture or fittings
+
+194I(b)
+
+194LBA Certain income from units of a business trust
+
+194LBB Income in respect of units of investment fund
+
+194LBC Income in respect of investment in securitization trust
+
+206CL Collection at source on sale of Motor vehicle
+
+206CM
+
+Collection at source on sale in cash of any goods(other than
+
+bullion/jewelry)
+
+206CN
+
+Collection at source on providing of any services (other than
+
+Ch-XVII-B)
+
+Page 2 of 2
+
+FORM NO. 16A
+
+[See rule 31(1)(b)]
+
+Certificate under section 203 of the Income-tax Act, 1961 for tax deducted at source
+
+Name and address of the deductor
+
+HVCV BanK Limited
+
+1, KSKD HOUSE, VDSH DVJBSD,
+
+Ogbhnj ASDFR, Patna - 456675
+
+BIHAR
+
++(91)55-4567899
+
+QUERIESONTDS@DFSJVSJ.COM
+
+Name and address of the deductee
+
+DGBHJA KASDABKDS
+
+D-202/EC II UGDUDF BVCMBVC, DBSJDVSBJSD ROAD,
+
+hURGUOY - 622008 KOCHI
+
+PAN of the deductor
+
+ABCVG8711B
+
+TAN of the deductor
+
+KJMN90118R
+
+PAN of the deductee
+
+HNBVA9817V
+
+Assessment Year
+
+2017-18
+
+CIT (TDS)
+
+The Commissioner of Income Tax (TDS)
+
+Room No. 900A, 9th Floor, K.G. Mittal Ayurvedic Hospital Building,
+
+Charni Road , Mumbai - 400002
+
+Period
+
+From
+
+01-Oct-2016
+
+To
+
+31-Dec-2016
+
+Summary of payment
+
+Amount paid/ credited Nature of payment**
+
+Date of payment/ credit
+
+(dd/mm/yyyy)
+
+Sl. No.
+
+Deductee Reference No.
+
+provided by the Deductor (if
+
+any)
+
+1 12340.00 194A 24-10-2016
+
+2 16265.00 194A 09-11-2016
+
+Total (Rs.) 28605.00
+
+Summary of tax deducted at source in respect of Deductee
+
+Quarter
+
+Receipt Numbers of Original
+
+Quarterly Statements of TDS
+
+Under sub-section (3) of Section
+
+200
+
+Amount of Tax Deducted in respect of
+
+Deductee
+
+Amount of Tax Deposited / Remitted in
+
+respect of Deductee
+
+Q3 FXBQMBMV 2860.50 2860.50
+
+I. DETAILS OF TAX DEDUCTED AND DEPOSITED IN THE CENTRAL GOVERNMENT ACCOUNT THROUGH BOOK ADJUSTMENT
+
+(The deductor to provide payment-wise details of tax deducted and deposited with respect to the deductee)
+
+Sl. No.
+
+Tax deposited in respect of
+
+deductee (Rs.)
+
+Book Identification Number (BIN)
+
+Receipt Numbers of Form
+
+No. 24G
+
+DDO serial number in Form No.
+
+24G
+
+Date of Transfer
+
+voucher (dd/mm/yyyy)
+
+Status of Matching
+
+with Form No. 24G
+
+Total (Rs.)
+
+II. DETAILS OF TAX DEDUCTED AND DEPOSITED IN THE CENTRAL GOVERNMENT ACCOUNT THROUGH CHALLAN
+
+(The deductor to provide payment-wise details of tax deducted and deposited with respect to the deductee)
+
+Sl. No.
+
+Tax deposited in respect of the
+
+deductee (Rs.)
+
+Challan Identification Number (CIN)
+
+BSR Code of the Bank
+
+Branch
+
+Date on which tax deposited
+
+(dd/mm/yyyy)
+
+Challan Serial Number Status of matching with
+
+OLTAS*
+
+1 1234.00 0510075 07-11-2016 42326 F
+
+2 1626.50 0510075 07-12-2016 38602 F
+
+Total (Rs.) 2860.50
+
+Certificate No. JWOVPKO Last updated on 30-Jan-2017
+
+Page 1 of 2
+
+Certificate Number:JWOVPKO TAN of Deductor: KJMN90118R PAN of Deductee: HNBVA9817V Assessment Year: 2017-18
+
+I, BDJBDS TUERTVDJ, son / daughter of UGWEUFV JDBSJDJS working in the capacity of DEPUTY VICE PRESIDENT (designation) do
+
+hereby certify that a sum of Rs. 2860.50 [Rs. Two Thousand Eight Hundred and Sixty Fifty paisa Only (in words)] has been deducted and a sum of Rs. 2860.50 [Rs.
+
+Two Thousand Eight Hundred and Sixty Fifty paisa Only] has been deposited to the credit of the Central Government. I further certify that the information given
+
+above is true, complete and correct and is based on the books of account, documents, TDS statements, TDS deposited and other available records.
+
+Verification
+
+Place
+
+Date 07-Feb-2017 (Signature of person responsible for deduction of tax)
+
+MUMBAI
+
+Designation: DEPUTY VICE PRESIDENT Full Name: BDJBDS TUERTVDJ
+
+Notes:
+
+1. Form 16A contains the latest transaction reported by the deductor in the TDS / TCS Statement. For further details please view your 26AS for same AY on the website https://www.tdscpc.gov.in
+
+2. To update the PAN details in Income Tax Department database, apply for 'PAN change request' through NSDL or UTITSL
+
+3. In items I and II, in column for tax deposited in repect of deductee, furnish total amount of TDS, surcharge (if applicable) and education cess (if applicable).
+
+Legend used in Form 16A
+
+* Status of matching with OLTAS
+
+Legend Description Definition
+
+U Unmatched
+
+Deductors have not deposited taxes or have furnished incorrect particulars of tax payment. Final credit will be reflected only when payment
+
+details in bank match with details of deposit in TDS / TCS statement
+
+P Provisional
+
+Provisional tax credit is effected only for TDS / TCS Statements filed by Government deductors."P" status will be changed to Final (F) on
+
+verification of payment details submitted by Pay and Accounts Officer (PAO)
+
+F Final
+
+In case of non-government deductors, payment details of TDS / TCS deposited in bank by deductor have matched with the payment details
+
+mentioned in the TDS / TCS statement filed by the deductors. In case of government deductors, details of TDS / TCS booked in Government
+
+account have been verified by Pay & Accounts Officer (PAO)
+
+O Overbooked
+
+Payment details of TDS / TCS deposited in bank by deductor have matched with details mentioned in the TDS / TCS statement but the
+
+amount is over claimed in the statement. Final (F) credit will be reflected only when deductor reduces claimed amount in the statement or
+
+makes new payment for excess amount claimed in the statement
+
+** Nature of Payment
+
+Section Code Description
+
+193 Interest on Securities
+
+Section Code Description
+
+196D
+
+Collection at source from alcoholic liquor for human consumption
+
+Commission, price, etc. on sale of lottery tickets
+
+Other sums payable to a non-resident
+
+194I
+
+Income by way of interest from specified company payable to a non-resident
+
+Dividends
+
+194H
+
+Payments to non-resident sportsmen or sports associations
+
+206CK
+
+Winning from horse race
+
+194E
+
+194LC
+
+Collection at source from tendu Leaves
+
+Collection at source from contractors or licensee or lease relating to parking
+
+lots
+
+Interest other than 'Interest on securities'
+
+194LB
+
+Payments on account of repurchase of units by Mutual Fund or Unit Trust of
+
+India
+
+196C
+
+194A
+
+Payments to contractors and sub-contractors
+
+195
+
+194
+
+206CF
+
+206CI
+
+194BB
+
+Collection at source from timber obtained by any mode other than a forest
+
+lease
+
+Rent
+
+Collection at source from contractors or licensee or lease relating to toll plaza
+
+206CA
+
+206CB Collection at source from timber obtained under forest lease
+
+194B
+
+Income in respect of units of non-residents
+
+194LA
+
+194K
+
+Commission or brokerage
+
+194D
+
+Collection at source from on sale of certain Minerals
+
+194C
+
+194EE
+
+206CG
+
+Income payable to a resident assessee in respect of units of a specified mutual
+
+fund or of the units of the Unit Trust of India
+
+206CC
+
+Income by way of Interest from Infrastructure Debt fund
+
+Payments in respect of units to an offshore fund
+
+Insurance commission
+
+Winning from lottery or crossword puzzle
+
+206CJ
+
+Payments in respect of deposits under National Savings Scheme
+
+Fees for professional or technical services
+
+206CE
+
+206CD
+
+194G
+
+196B
+
+Payment of compensation on acquisition of certain immovable property
+
+194J Collection at source from contractors or licensee or lease relating to mine or
+
+quarry
+
+194F
+
+196A
+
+Collection at source on cash case of Bullion and Jewellery
+
+206CH
+
+Income from foreign currency bonds or shares of Indian company payable to
+
+non-residents
+
+Collection at source from any scrap
+
+Income of foreign institutional investors from securities
+
+Collection at source from any other forest produce (not being tendu leaves)
+
+194I(a) Payment of Rent for the use of any machinery or plant or equipment
+
+Payment of Rent for the use of land or building or land appurtenant or
+
+furniture or fittings
+
+194I(b)
+
+194LBA Certain income from units of a business trust
+
+194LBB Income in respect of units of investment fund
+
+194LBC Income in respect of investment in securitization trust
+
+206CL Collection at source on sale of Motor vehicle
+
+206CM
+
+Collection at source on sale in cash of any goods(other than
+
+bullion/jewelry)
+
+206CN
+
+Collection at source on providing of any services (other than
+
+Ch-XVII-B)
+
+Page 2 of 2
+
+FORM NO. 16A
+
+[See rule 31(1)(b)]
+
+Certificate under section 203 of the Income-tax Act, 1961 for tax deducted at source
+
+Name and address of the deductor
+
+HVCV BanK Limited
+
+1, KSKD HOUSE, VDSH DVJBSD,
+
+Ogbhnj ASDFR, Patna - 456675
+
+BIHAR
+
++(91)55-4567899
+
+QUERIESONTDS@DFSJVSJ.COM
+
+Name and address of the deductee
+
+DGBHJA KASDABKDS
+
+D-202/EC II UGDUDF BVCMBVC, DBSJDVSBJSD ROAD,
+
+hURGUOY - 622008 KOCHI
+
+PAN of the deductor
+
+ABCVG8711B
+
+TAN of the deductor
+
+KJMN90118R
+
+PAN of the deductee
+
+HNBVA9817V
+
+Assessment Year
+
+2017-18
+
+CIT (TDS)
+
+The Commissioner of Income Tax (TDS)
+
+Room No. 900A, 9th Floor, K.G. Mittal Ayurvedic Hospital Building,
+
+Charni Road , Mumbai - 400002
+
+Period
+
+From
+
+01-Jan-2017
+
+To
+
+31-Mar-2017
+
+Summary of payment
+
+Amount paid/ credited Nature of payment**
+
+Date of payment/ credit
+
+(dd/mm/yyyy)
+
+Sl. No.
+
+Deductee Reference No.
+
+provided by the Deductor (if
+
+any)
+
+1 12569.00 194A 24-01-2017
+
+2 17102.00 194A 17-02-2017
+
+Total (Rs.) 29671.00
+
+Summary of tax deducted at source in respect of Deductee
+
+Quarter
+
+Receipt Numbers of Original
+
+Quarterly Statements of TDS
+
+Under sub-section (3) of Section
+
+200
+
+Amount of Tax Deducted in respect of
+
+Deductee
+
+Amount of Tax Deposited / Remitted in
+
+respect of Deductee
+
+Q4 QSIQLJOB 2967.10 2967.10
+
+I. DETAILS OF TAX DEDUCTED AND DEPOSITED IN THE CENTRAL GOVERNMENT ACCOUNT THROUGH BOOK ADJUSTMENT
+
+(The deductor to provide payment-wise details of tax deducted and deposited with respect to the deductee)
+
+Sl. No.
+
+Tax deposited in respect of
+
+deductee (Rs.)
+
+Book Identification Number (BIN)
+
+Receipt Numbers of Form
+
+No. 24G
+
+DDO serial number in Form No.
+
+24G
+
+Date of Transfer
+
+voucher (dd/mm/yyyy)
+
+Status of Matching
+
+with Form No. 24G
+
+Total (Rs.)
+
+II. DETAILS OF TAX DEDUCTED AND DEPOSITED IN THE CENTRAL GOVERNMENT ACCOUNT THROUGH CHALLAN
+
+(The deductor to provide payment-wise details of tax deducted and deposited with respect to the deductee)
+
+Sl. No.
+
+Tax deposited in respect of the
+
+deductee (Rs.)
+
+Challan Identification Number (CIN)
+
+BSR Code of the Bank
+
+Branch
+
+Date on which tax deposited
+
+(dd/mm/yyyy)
+
+Challan Serial Number Status of matching with
+
+OLTAS*
+
+1 1256.90 0510075 07-02-2017 42775 F
+
+2 1710.20 0510075 07-03-2017 42817 F
+
+Total (Rs.) 2967.10
+
+Certificate No. KBYXMTO Last updated on 22-May-2017
+
+Page 1 of 2
+
+Certificate Number:KBYXMTO TAN of Deductor: KJMN90118R PAN of Deductee: HNBVA9817V Assessment Year: 2017-18
+
+I, BDJBDS TUERTVDJ, son / daughter of UGWEUFV JDBSJDJS working in the capacity of DEPUTY VICE PRESIDENT (designation) do
+
+hereby certify that a sum of Rs. 2967.10 [Rs. Two Thousand Nine Hundred and Sixty Seven Ten paisa Only (in words)] has been deducted and a sum of Rs. 2967.10
+
+[Rs. Two Thousand Nine Hundred and Sixty Seven Ten paisa Only] has been deposited to the credit of the Central Government. I further certify that the information
+
+given above is true, complete and correct and is based on the books of account, documents, TDS statements, TDS deposited and other available records.
+
+Verification
+
+Place
+
+Date 26-May-2017 (Signature of person responsible for deduction of tax)
+
+MUMBAI
+
+Designation: DEPUTY VICE PRESIDENT Full Name: BDJBDS TUERTVDJ
+
+Notes:
+
+1. Form 16A contains the latest transaction reported by the deductor in the TDS / TCS Statement. For further details please view your 26AS for same AY on the website https://www.tdscpc.gov.in
+
+2. To update the PAN details in Income Tax Department database, apply for 'PAN change request' through NSDL or UTITSL
+
+3. In items I and II, in column for tax deposited in repect of deductee, furnish total amount of TDS, surcharge (if applicable) and education cess (if applicable).
+
+Legend used in Form 16A
+
+* Status of matching with OLTAS
+
+Legend Description Definition
+
+U Unmatched
+
+Deductors have not deposited taxes or have furnished incorrect particulars of tax payment. Final credit will be reflected only when payment
+
+details in bank match with details of deposit in TDS / TCS statement
+
+P Provisional
+
+Provisional tax credit is effected only for TDS / TCS Statements filed by Government deductors."P" status will be changed to Final (F) on
+
+verification of payment details submitted by Pay and Accounts Officer (PAO)
+
+F Final
+
+In case of non-government deductors, payment details of TDS / TCS deposited in bank by deductor have matched with the payment details
+
+mentioned in the TDS / TCS statement filed by the deductors. In case of government deductors, details of TDS / TCS booked in Government
+
+account have been verified by Pay & Accounts Officer (PAO)
+
+O Overbooked
+
+Payment details of TDS / TCS deposited in bank by deductor have matched with details mentioned in the TDS / TCS statement but the
+
+amount is over claimed in the statement. Final (F) credit will be reflected only when deductor reduces claimed amount in the statement or
+
+makes new payment for excess amount claimed in the statement
+
+** Nature of Payment
+
+Section Code Description
+
+193 Interest on Securities
+
+Section Code Description
+
+196D
+
+Collection at source from alcoholic liquor for human consumption
+
+Commission, price, etc. on sale of lottery tickets
+
+Other sums payable to a non-resident
+
+194I
+
+Income by way of interest from specified company payable to a non-resident
+
+Dividends
+
+194H
+
+Payments to non-resident sportsmen or sports associations
+
+206CK
+
+Winning from horse race
+
+194E
+
+194LC
+
+Collection at source from tendu Leaves
+
+Collection at source from contractors or licensee or lease relating to parking
+
+lots
+
+Interest other than 'Interest on securities'
+
+194LB
+
+Payments on account of repurchase of units by Mutual Fund or Unit Trust of
+
+India
+
+196C
+
+194A
+
+Payments to contractors and sub-contractors
+
+195
+
+194
+
+206CF
+
+206CI
+
+194BB
+
+Collection at source from timber obtained by any mode other than a forest
+
+lease
+
+Rent
+
+Collection at source from contractors or licensee or lease relating to toll plaza
+
+206CA
+
+206CB Collection at source from timber obtained under forest lease
+
+194B
+
+Income in respect of units of non-residents
+
+194LA
+
+194K
+
+Commission or brokerage
+
+194D
+
+Collection at source from on sale of certain Minerals
+
+194C
+
+194EE
+
+206CG
+
+Income payable to a resident assessee in respect of units of a specified mutual
+
+fund or of the units of the Unit Trust of India
+
+206CC
+
+Income by way of Interest from Infrastructure Debt fund
+
+Payments in respect of units to an offshore fund
+
+Insurance commission
+
+Winning from lottery or crossword puzzle
+
+206CJ
+
+Payments in respect of deposits under National Savings Scheme
+
+Fees for professional or technical services
+
+206CE
+
+206CD
+
+194G
+
+196B
+
+Payment of compensation on acquisition of certain immovable property
+
+194J Collection at source from contractors or licensee or lease relating to mine or
+
+quarry
+
+194F
+
+196A
+
+Collection at source on cash case of Bullion and Jewellery
+
+206CH
+
+Income from foreign currency bonds or shares of Indian company payable to
+
+non-residents
+
+Collection at source from any scrap
+
+Income of foreign institutional investors from securities
+
+Collection at source from any other forest produce (not being tendu leaves)
+
+194I(a) Payment of Rent for the use of any machinery or plant or equipment
+
+Payment of Rent for the use of land or building or land appurtenant or
+
+furniture or fittings
+
+194I(b)
+
+194LBA Certain income from units of a business trust
+
+194LBB Income in respect of units of investment fund
+
+194LBC Income in respect of investment in securitization trust
+
+206CL Collection at source on sale of Motor vehicle
+
+206CM
+
+Collection at source on sale in cash of any goods(other than
+
+bullion/jewelry)
+
+206CN
+
+Collection at source on providing of any services (other than
+
+Ch-XVII-B)
+
+Page 2 of 2
